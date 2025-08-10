@@ -1,0 +1,27 @@
+{
+  "token": "",
+  "mongoURI": "",
+  "guildId": "",
+  "clientId": "",
+  "ownerId": "",
+  "roles": {
+    "jailPermission": "",
+    "mutePermission": "",
+    "vmutePermission": "",
+    "muted": "",
+    "vmuted": "",
+    "jailed": ""
+  },
+  "channels": {
+    "banLog": "",
+    "kickLog": "",
+    "softbanLog": "",
+    "muteLog": "",
+    "unmuteLog": "",
+    "jailLog": "",
+    "unjailLog": "",
+    "vmuteLog": "",
+    "unvmuteLog": "",
+    "purgeLog": ""
+  }
+}

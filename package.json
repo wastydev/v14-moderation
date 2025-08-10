@@ -1,0 +1,21 @@
+{
+  "name": "moderasyon-botu",
+  "version": "1.0.0",
+  "description": "Discord moderasyon botu - Mute, Jail, Vmutes ve daha fazlası",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "deploy": "node deploy-commands.js"
+  },
+  "author": "wasty",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.11.0",
+    "dotenv": "^16.3.1",
+    "module-alias": "^2.2.3",
+    "mongoose": "^7.5.1"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
